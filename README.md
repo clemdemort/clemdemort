@@ -3,7 +3,7 @@
 - I’m currently learning GLSL and OpenGL
   to start making my own engines/games from scratch!
 - I primarily use C++ in my applications
-  but I also have some experience with python.
+  but I also have some experience with python and C.
 - I also have a lot of experience with
   mcfunction(Minecraft's datapack language)
   but that one is more for fun ;D
