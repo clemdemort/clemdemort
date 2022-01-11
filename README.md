@@ -9,9 +9,9 @@
   but that one is more for fun ;D
 
 I will sometimes share some projects I'm working on
-here, but they will vary a lot in nature since I
+here, but they might vary a lot in nature since I
 Tend not to commit to a single one :P
 
 My goal around here is predominantly to learn,
 have fun and maybe make something cool every
-once again in a while! :)
+once in a while! :)
