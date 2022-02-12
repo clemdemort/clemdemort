@@ -1,7 +1,6 @@
 - Hi, I’m @clemdemort!
 - I’m interested in computer graphics and game engines
-- I’m currently learning GLSL and OpenGL
-  to start making my own engines/games from scratch!
+- I’m currently learning how to use Linux so i might not be as active as i used to be(at least on here), progress should return soon(tm) though!
 - I primarily use C++ in my applications
   but I also have some experience with python and C.
 - I also have a lot of experience with
