@@ -19,7 +19,7 @@ once in a while! :)
 
 - Bonjour je suis @clemdemort!
 - Je suis intéressé par la programmation graphique, les moteurs de jeu, et plus récemment le petit monde de linux .
-- Je suis actuellement en train d’apprendre l’API OpenGL avec le langage GLSL ainsi que Linux (qui est bien plus simple qu’il ne parait donc jetez y un oeuil ! )
+- Je suis actuellement en train d’apprendre l’API OpenGL avec le langage GLSL ainsi que Linux (qui est bien plus simple qu’il ne parait donc jetez-y un oeil ! )
 - j’utilise principalement le C++ dans mes Projets mais je connais aussi Le C ainsi que Python.
 - j’ai aussi beaucoup d’expérience avec le mcfunction(langage de programmation des datapacks minecraft) même si c’est plus pour de l’amusement personnel ! :D
 
