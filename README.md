@@ -1,11 +1,10 @@
-- Hi, I’m @clemdemort!
-- I’m interested in computer graphics, game engines, and more recently the world of Linux.
-- I’m currently learning OpenGL and GLSL alongside linux (Which is MUCH easier than you would think so give it a try!)
-- I primarily use C++ in my applications
-  but I also have some experience with python and C.
-- I also have a lot of experience with
-  mcfunction(Minecraft's datapack language)
-  but that one is more for fun ;D
+EN :
+
+- Hi, I’m Clement Bartolone!
+- I’m interested in computer graphics, Neural Networks and  Linux.
+- I’m currently learning about Neural networks
+- I primarily use C in my applications
+  but I also have some experience with C++, Java, PHP, Haskell and Bash.
 
 I will sometimes share some projects I'm working on
 here, but they might vary a lot in nature since I
@@ -15,13 +14,12 @@ My goal around here is predominantly to learn,
 have fun and maybe make something cool every
 once in a while! :)
 
+FR : 
 
-
-- Bonjour je suis @clemdemort!
-- Je suis intéressé par la programmation graphique, les moteurs de jeu, et plus récemment le petit monde de linux .
-- Je suis actuellement en train d’apprendre l’API OpenGL avec le langage GLSL ainsi que Linux (qui est bien plus simple qu’il ne parait donc jetez-y un oeil ! )
-- j’utilise principalement le C++ dans mes Projets mais je connais aussi Le C ainsi que Python.
-- j’ai aussi beaucoup d’expérience avec le mcfunction(langage de programmation des datapacks minecraft) même si c’est plus pour de l’amusement personnel ! :D
+- Bonjour je suis Clément Bartolone!
+- Je suis intéressé par la programmation graphique, les réseaux de neurones ainsi que Linux .
+- Je suis actuellement en train d’apprendre comment créer un réseau de neurone
+- j’utilise principalement le C dans mes Projets mais je connais aussi le C++, Java, PHP, Haskell, et Bash.
 
 Je partagerais sur cette page certains des projets sur lesquels je travaille.
 
